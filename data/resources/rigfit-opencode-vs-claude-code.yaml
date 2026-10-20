@@ -1,0 +1,10 @@
+name: RigFit – OpenCode vs Claude Code
+repo: https://rigfit-harness.vercel.app/opencode-vs-claude-code/
+homepage: https://rigfit-harness.vercel.app/opencode-vs-claude-code/
+tagline: Sourced side-by-side of OpenCode and Claude Code config, MCP, permissions and headless runs
+description: Compares OpenCode (v1 and v2) with Claude Code on models, licensing, instruction files (AGENTS.md vs CLAUDE.md), MCP config (including the V2 mcp.servers shape), headless runs, default permissions and undo. Every row links to official docs and is dated. Free, no sign-up.
+tags:
+  - guide
+  - comparison
+  - config
+  - mcp
